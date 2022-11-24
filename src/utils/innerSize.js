@@ -1,3 +1,5 @@
+
+
 // Calculate height without padding.
 export function innerHeight(el) {
   const style = window.getComputedStyle(el, null);
